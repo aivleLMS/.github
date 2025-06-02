@@ -53,6 +53,13 @@ src/
 │ ├── dto/ 
 │ │ ├── BookDTO.java
 │ │ └── UserDTO.java
+│ ├── exception/
+│ │ ├── ApiError.java
+│ │ ├── BookNotFoundException.java
+│ │ ├── GlobalExceptionHandler.java
+│ │ ├── RequiredFieldEmptyException.java
+│ │ ├── TokenNotFoundException.java
+│ │ ├── UserNotFoundException.java
 │ ├── repository/ 
 │ │ ├── BookRepository.java
 │ │ └── UserRepository.java
