@@ -21,6 +21,17 @@
 - [backend](https://github.com/aivleLMS/backend) - 백엔드 소스
 - [notion](https://www.notion.so/4-20297e47e8a280e3b5b0f862d33443fd) - 문서
 
+
+## 🛠 기술 스택
+
+### Frontend  
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
+
+### Backend  
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![OpenAI](https://img.shields.io/badge/GPT%20API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/)
+
 <br>
 
 ## 프로젝트 구조 (Backend)
