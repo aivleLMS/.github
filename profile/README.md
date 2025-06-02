@@ -20,3 +20,30 @@
 - [frontend](https://github.com/aivleLMS/frontend) - 프론트엔드 소스
 - [backend](https://github.com/aivleLMS/backend) - 백엔드 소스
 - [notion](https://www.notion.so/4-20297e47e8a280e3b5b0f862d33443fd) - 문서
+
+<br>
+
+## 프로젝트 구조 (Backend)
+```
+
+```
+## 프로젝트 구조 (Frontend)
+```
+src/
+├── api/ 
+│ ├── axiosInstance.js 
+│ ├── bookService.js 
+│ └── openaiService.js 
+│
+├── components/
+│ ├── AppBar.jsx
+│ └── BookCard.jsx 
+│
+├── pages/ # 각 페이지별 구성
+│ ├── BookDetail.jsx 
+│ ├── BookList.jsx 
+│ ├── EditBook.jsx 
+│ ├── RegisterBook.jsx
+│ ├── Login.jsx
+│ └── UserInfo.jsx
+```
