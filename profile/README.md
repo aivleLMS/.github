@@ -59,7 +59,7 @@ src/
 │ │ ├── GlobalExceptionHandler.java
 │ │ ├── RequiredFieldEmptyException.java
 │ │ ├── TokenNotFoundException.java
-│ │ ├── UserNotFoundException.java
+│ │ └──  UserNotFoundException.java
 │ ├── repository/ 
 │ │ ├── BookRepository.java
 │ │ └── UserRepository.java
