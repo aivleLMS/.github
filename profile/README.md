@@ -38,7 +38,30 @@
 
 ## 프로젝트 구조 (Backend)
 ```
-
+src/
+└── main/
+├── java/
+│ └── com.aivle.booksystem/
+│ ├── config/
+│ │ └── WebConfig.java
+│ ├── controller/
+│ │ ├── BookController.java
+│ │ └── UserController.java
+│ ├── domain/
+│ │ ├── Book.java
+│ │ └── User.java
+│ ├── dto/ 
+│ │ ├── BookDTO.java
+│ │ └── UserDTO.java
+│ ├── repository/ 
+│ │ ├── BookRepository.java
+│ │ └── UserRepository.java
+│ ├── service/ 
+│ │ ├── book/
+│ │ └── user/
+│ └── BooksystemApplication.java 
+└── resources/
+└── application.yml
 ```
 ## 프로젝트 구조 (Frontend)
 ```
