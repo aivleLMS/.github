@@ -9,8 +9,7 @@
 
 | 이름    | 이의형    | 박가희   | 장성희 | 현승아 | 최민지 | 강서연 | 박상훈
 | ------- | ----------| ----------|---------- | ----------| ----------| ----------| ----------
-| **git** | 	leh60245 | 	LienBak | ddanglehee   | seungah-hyun |choiminji-020102 |seoyeon |sanghuniolsida
-| ------- | ----------| ----------|---------- | ----------| ----------| ----------| ----------
+| **git** | 	[leh60245](https://github.com/leh60245) | [LienBak](https://github.com/LienBak) | [ddanglehee](https://github.com/ddanglehee)   | [seungah-hyun](https://github.com/seungah-hyun) |[choiminji-020102](https://github.com/choiminji-020102) |[seoyeon](https://github.com/haaaaauy) |[sanghuniolsida](https://github.com/sanghuniolsida)
 | Role | backend| backend | backend| frontend | frontend | frontend | frontend
 
 <br>
