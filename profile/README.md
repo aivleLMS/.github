@@ -13,7 +13,6 @@
 | Role | backend| backend | backend| frontend | frontend | frontend | frontend
 
 <br>
-<br>
 
 ## 📦 주요 레포지토리
 
@@ -24,13 +23,16 @@
 
 ## 🛠 기술 스택
 
-### Frontend  
+### 🖥 Frontend  
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend  
+### 🔧 Backend  
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![OpenAI](https://img.shields.io/badge/GPT%20API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
+
 
 <br>
 
