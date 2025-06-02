@@ -1,12 +1,5 @@
-## Hi there 👋
+## 📦 주요 레포지토리
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [frontend](https://github.com/aivleLMS/frontend) - 프론트엔드 소스
+- [backend](https://github.com/aivleLMS/backend) - 백엔드 소스
+- [notion](https://www.notion.so/4-20297e47e8a280e3b5b0f862d33443fd) - 문서
