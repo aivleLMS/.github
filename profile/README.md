@@ -9,7 +9,7 @@
 
 | 이름    | 이의형    | 박가희   | 장성희 | 현승아 | 최민지 | 강서연 | 박상훈
 | ------- | ----------| ----------|---------- | ----------| ----------| ----------| ----------
-| **git** |  |  |    | | | |
+| **git** | 	leh60245 | 	LienBak | ddanglehee   | seungah-hyun |choiminji-020102 |seoyeon |sanghuniolsida
 | ------- | ----------| ----------|---------- | ----------| ----------| ----------| ----------
 | Role | backend| backend | backend| frontend | frontend | frontend | frontend
 
